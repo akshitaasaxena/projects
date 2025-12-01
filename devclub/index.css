@@ -1,0 +1,428 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+
+#wa {
+
+    padding-top: 15px;
+    display: flex;
+    padding-left: 80px;
+    justify-content: start;
+    text-align: center;
+    height: 60px;
+    width: 100vw;
+    gap: 10px;
+    color: white;
+    position: fixed;
+    background-color: black;
+
+
+}
+
+#ww {
+    padding-top: 15px;
+    background-color: black;
+    height: 45px;
+    display: flex;
+    padding-left: 400px;
+    gap: 60px;
+    padding-right: 80px;
+
+}
+
+#aa {
+    padding-top: 20px;
+    height: 400px;
+    text-align: center;
+    background-color: black;
+}
+
+span {
+    color: rgb(36, 144, 245);
+    background-color: black;
+}
+
+#bb {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-size: x-large;
+    background-color: black;
+    height: 200px;
+
+}
+
+button {
+    height: 60px;
+    width: 130px;
+    border-radius: 35px;
+    border: rgb(36, 144, 245) solid;
+    color: rgb(36, 144, 245);
+    font-size: 17px;
+    background-color: black;
+}
+
+#cc {
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    background-color: black;
+}
+
+#dd {
+    padding-top: 100px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+    background-color: black;
+    height: 200px;
+    text-align: center;
+
+}
+
+.ab {
+    text-align: center;
+    background-color: black;
+}
+
+#xx {
+    background-image: url(29.jpg);
+    opacity: 0.8;
+    height: 300px;
+    width: 300px;
+    padding-left: 20px;
+    padding-top: 20px;
+    margin: 20px;
+}
+
+#yy {
+    background-image: url(18.jpg);
+    opacity: 0.8;
+    margin: 20px;
+    height: 300px;
+    width: 300px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+#zz {
+    background-image: url(photo5.webp);
+    opacity: 0.8;
+    margin: 20px;
+    height: 300px;
+    width: 300px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.qq {
+    color: rgb(36, 144, 245);
+}
+
+#ss {
+    height: 400px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#xa {
+    background-image: url(26.jpg);
+    opacity: 0.8;
+    height: 300px;
+    width: 300px;
+    padding-left: 20px;
+    padding-top: 20px;
+    margin: 20px;
+}
+
+#xb {
+    background-image: url(photo6.webp);
+    opacity: 0.8;
+    height: 300px;
+    width: 300px;
+    padding-left: 20px;
+    padding-top: 20px;
+    margin: 20px;
+}
+
+#xc {
+    background-image: url(photo1.jpeg);
+    opacity: 0.8;
+    height: 300px;
+    width: 300px;
+    padding-left: 20px;
+    padding-top: 20px;
+    margin: 20px;
+}
+
+#tt {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 200px;
+    padding: 50px;
+    gap: 5px;
+
+
+}
+
+#ta {
+    height: 100px;
+    padding: 50px;
+
+}
+
+#tb {
+    height: 100px;
+    padding: 50px;
+}
+
+#tc {
+    height: 100px;
+    padding: 50px;
+}
+
+#td {
+    height: 100px;
+    padding: 50px;
+}
+
+#jj {
+    background-color: black;
+    height: 100px;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    padding-bottom: 50px;
+
+}
+
+#lk {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    gap: 30px;
+    height: 300px;
+
+}
+
+#ll {
+    padding-top: 30px;
+    background-image: url(9.webp);
+    height: 250px;
+    width: 40vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#la {
+    padding-top: 30px;
+    background-image: url(10.jpeg);
+    height: 250px;
+    width: 40vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#lb {
+    padding-top: 30px;
+    background-image: url(19.jpeg);
+    height: 250px;
+    width: 40vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#lc {
+    padding-top: 30px;
+    background-image: url(20.jpeg);
+    height: 250px;
+    width: 40vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#ld {
+    background-image: url(23.jpg);
+    padding-top: 30px;
+    height: 250px;
+    width: 40vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#le {
+    background-image: url(21.jpg);
+    padding-top: 30px;
+    height: 250px;
+    width: 40vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#lf {
+    background-image: url(22.jpg);
+    padding-top: 30px;
+    height: 250px;
+    width: 40vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#lg {
+    background-image: url(16.jpg);
+    padding-top: 30px;
+    height: 250px;
+    width: 40vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#lh {
+    background-image: url(30.jpg);
+    padding-top: 30px;
+    height: 250px;
+    width: 40vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#li {
+    background-image: url(23.jpg);
+    padding-top: 30px;
+    height: 250px;
+    width: 40vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#lx {
+    background-image: url(27.jpg);
+    padding-top: 30px;
+    height: 250px;
+    width: 40vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#rr {
+    background-color: black;
+    height: 200px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+#nn {
+
+    background-color: black;
+    background-image: url(xx.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+
+
+}
+
+#gg {
+    padding-top: 100px;
+    background-color: black;
+    text-align: center;
+    height: 100px;
+}
+
+#ee {
+    border: none;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    background-color: black;
+    gap: 40px;
+}
+
+.ef {
+    width: 560px;
+}
+
+#mm {
+    padding-top: 80px;
+    align-items: center;
+}
+
+.ee {
+    padding-top: 50px;
+    width: 500px;
+    height: 250px;
+}
+
+#hh {
+    text-align: center;
+    background-color: red;
+    color: white;
+    height: 50px;
+    width: 150px;
+    border-radius: 50px;
+    border: none;
+}
+
+#vv {
+    background-color: black;
+    height: 300px;
+    text-align: center;
+    padding-top: 150px;
+}
+
+#cd {
+    background-color: black;
+
+
+}
+
+#kp {
+    height: 50px;
+}
+
+footer {
+    background-color: black;
+    height: 170px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+}
+
+section {
+    display: flex;
+    text-align: center;
+}
+
+#nm {
+
+    background-color: black;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.xc {
+    height: 60px;
+    width: 200px;
+}
+
+.pb {
+    background-color: black;
+    height: 55px;
+    width: 150px;
+}
+
+.qx {
+    color: rgb(36, 144, 245);
+}
